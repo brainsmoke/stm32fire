@@ -3,6 +3,8 @@
 
 WS2801 LED fireplace
 
+https://user-images.githubusercontent.com/1580495/135319906-f244afc6-8092-4191-96b9-595b6216e549.mp4
+
 == Template code ==
 
 Based on the template code at:
